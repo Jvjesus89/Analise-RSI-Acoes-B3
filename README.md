@@ -7,5 +7,5 @@ Gerar historico de quando deveria comprar e vender as ações
 Gerar percetual de acerto do programa
 gerar percentual de perde e de ganho
 Gerar relatorio de lucratividade
-Com base em uma listagem na planilha no google temos algumas ações que ele analisa se devemos comprar ou vender
+Com base em uma listagem na planilha no google temos algumas ações que ele analisa se devemos comprar ou vender <b>
 link da planilha https://docs.google.com/spreadsheets/d/15ghbzfFs-V7I37pt_Dg54WI4BrM_sUSh2q3w_MAOlfs/edit?gid=0#gid=0
