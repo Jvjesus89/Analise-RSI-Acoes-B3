@@ -1,0 +1,1 @@
+# Analise-RSI-Acoes-B3
